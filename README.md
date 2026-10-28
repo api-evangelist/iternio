@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-A Better Route Planner (Iternio) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://abetterrouteplanner.com/
+A Better Route Planner (Iternio) provides an advanced route planning platform for electric vehicle (EV) owners, offering real‑time navigation, charging station integration, and energy consumption forecasts. The service includes a public API that enables developers to access routing, charging point data, and vehicle telemetry, supporting integration into third‑party apps, fleet management tools, and in‑car infotainment systems. ABRP aims to simplify EV travel by optimizing routes based on battery state, charger availability, and user preferences.
+
+**Areas:** Company · EV · Routing · API · Transportation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://abetterrouteplanner.com/)
+- [Documentation](https://abetterrouteplanner.com/resources/api)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/iternio/](https://apis.io/providers/iternio/).
